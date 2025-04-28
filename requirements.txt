@@ -1,0 +1,7 @@
+streamlit==1.40.1
+pandas==1.5.3
+time  # No requiere instalación, es parte de Python
+groq==0.18.0
+typing  # No requiere instalación, es parte de Python
+Pillow==11.1.0
+google-generativeai==2.0.11
